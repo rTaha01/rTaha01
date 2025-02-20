@@ -1,11 +1,11 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Taha 👋
 
 ## 🚀 About Me
-I am a Full Stack Developer and Electrical Engineer with over 5 years of experience. I specialize in backend, frontend, and web scraping.
+I am a Flutter and mobile application developer with over 5 years of experience. I specialize in backend, frontend, and web scraping.
 
-- 🔭 Currently working on **exciting projects**
-- 🌱 Learning **new technologies** every day
-- 💬 Ask me about **Web Development, AI, and Automation**
+- 🔭 Currently working on **on 5 projects**
+- 🌱 Learning **flutters** every day
+- 💬 Ask me about **Web Development, AI, Flutter, and Automation**
 - 📫 How to reach me: [Email Me](mailto:youremail@example.com)
 - ⚡ Fun fact: I love coding and problem-solving!
 
