@@ -6,7 +6,7 @@ I am a Flutter and mobile application developer with over 5 years of experience.
 - 🔭 Currently working on **on 5 projects**
 - 🌱 Learning **flutters** every day
 - 💬 Ask me about **Web Development, AI, Flutter, and Automation**
-- 📫 How to reach me: [Email Me](mailto:youremail@example.com)
+- 📫 How to reach me: [Email Me](mailto:fiverr01help@gmail.com)
 - ⚡ Fun fact: I love coding and problem-solving!
 
 ---
@@ -30,20 +30,20 @@ I am a Flutter and mobile application developer with over 5 years of experience.
 
 ## 📊 GitHub Stats:
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=rTaha01&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rTaha01&layout=compact&theme=dark)
 
 ---
 
 ## 🏆 GitHub Trophies:
-![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&no-frame=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=rTaha01&theme=darkhub&no-frame=true)
 
 ---
 
 ## 📫 Connect with Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rao-taha-604963245)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fiverr01help@gmail.com)
 
 ---
 
