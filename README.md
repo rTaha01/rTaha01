@@ -45,4 +45,8 @@ I am a Flutter and mobile application developer with over 5 years of experience.
 
 ---
 
-### 🎉 Thanks for Visiting My Profile! Keep Coding! 🚀
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+[![](https://visitcount.itsvg.in/api?id=mgulbazilyas&icon=0&color=0)](https://visitcount.itsvg.in)
